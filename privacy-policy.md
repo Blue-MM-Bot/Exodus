@@ -2,6 +2,8 @@
 
 This Privacy Policy explains how Exodus Bot ("we," "us," or "the bot") collects, uses, and discloses information about you when you use our services on Discord. By using Exodus Bot, you agree to the collection and use of your information in accordance with this policy.
 
+**Important Note:** Exodus Bot is an independent project and is not affiliated with or endorsed by Exodus Movement, Inc., or any other company using the name "Exodus."
+
 ## Information We Collect
 
 User Information: When you use /setup, we collect your Discord user ID, Litecoin address, and private key. This information is essential for the bot's core functionality.
